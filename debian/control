@@ -1,0 +1,27 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: whonix-ws-start-menu-additions
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: https://github.com/Whonix/whonix-ws-start-menu-additions
+Vcs-Browser: https://github.com/Whonix/whonix-ws-start-menu-additions
+Vcs-Git: https://github.com/Whonix/whonix-ws-start-menu-additions.git
+Standards-Version: 3.9.4
+
+Package: whonix-ws-start-menu-additions
+Architecture: all
+Depends: tb-starter, ${misc:Depends}
+Recommends: anon-icon-pack
+Description: Extra Start Menu Entries for Whonix-Workstation
+ Contains start menu entries for the following links:
+  - contribute
+  - donate
+  - forum
+  - mailinglist
+  - documentation
+  - featureblog
+  - importantblog
