@@ -1,0 +1,2 @@
+# This package really only ships a start menu and desktop shortcuts.
+whonix-ws-start-menu-additions: desktop-command-not-in-package *
