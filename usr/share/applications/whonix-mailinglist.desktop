@@ -10,3 +10,4 @@ GenericName=Whonix Developer Mailing List
 Comment=Developer Mailing List
 Categories=Network;
 Icon=/usr/share/icons/anon-icon-pack/mailinglist.ico
+X-KDE-StartupNotify=false

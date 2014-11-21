@@ -10,3 +10,4 @@ GenericName=Whonix Contribute Page
 Comment=Contribute to Whonix
 Categories=Network;
 Icon=/usr/share/icons/anon-icon-pack/contribute.png
+X-KDE-StartupNotify=false
