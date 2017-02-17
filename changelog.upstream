@@ -1,3 +1,23 @@
+commit ab7b05242f4cb7485742b05202f4dc3ed7461160
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 10 15:47:56 2017 +0000
+
+    remove faketime from Build-Depends:
+    
+    since no longer used for reproducible builds
+
+commit 4ead5b3d30013ab97557431db4cd7ebc2fcbc53f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 10 15:35:34 2017 +0000
+
+    remove debian/gain-root-command workaround
+
+commit 16b394b8da74cd7f571ee44114fbf01b64a0cdd7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 15:41:01 2017 +0000
+
+    bumped changelog version
+
 commit 3ccc8d303c9c62732fc35c0b68d6f2c6eb325657
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Jan 15 08:35:55 2017 +0100
