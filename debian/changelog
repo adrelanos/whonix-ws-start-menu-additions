@@ -1,3 +1,9 @@
+whonix-ws-start-menu-additions (3:1.5-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Thu, 01 Feb 2018 15:43:28 +0000
+
 whonix-ws-start-menu-additions (3:1.4-1) unstable; urgency=medium
 
   * New upstream version (local package).
