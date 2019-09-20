@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --forum
+Exec=x-www-browser https://forums.whonix.org
 Name=WhonixForum
 GenericName=WhonixForum
 Comment=User Help Forum

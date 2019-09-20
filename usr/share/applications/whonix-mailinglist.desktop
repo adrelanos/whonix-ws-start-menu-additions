@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --mailinglist
+Exec=x-www-browser https://www.whonix.org/pipermail/whonix-devel/
 Name=Developer Mailing List
 GenericName=Whonix Developer Mailing List
 Comment=Developer Mailing List

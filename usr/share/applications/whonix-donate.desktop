@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --donate
+Exec=x-www-browser https://www.whonix.org/wiki/Donate
 Name=Donate Page
 GenericName=Whonix Donate Page
 Comment=Donate to Whonix

@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --doc
+Exec=x-www-browser https://www.whonix.org/wiki/Documentation
 Name=Documentation
 GenericName=Whonix Documentation Online
 Comment=Whonix Documentation Online

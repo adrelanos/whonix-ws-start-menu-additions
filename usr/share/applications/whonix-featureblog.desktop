@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --featureblog
+Exec=x-www-browser https://forums.whonix.org/c/news
 Name=Whonix Feature Blog
 GenericName=Whonix Feature Blog
 Comment=Feature Blog in Tor Browser

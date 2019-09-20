@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --importantblog
+Exec=x-www-browser https://forums.whonix.org/tags/important-news
 Name=Whonix Blog
 GenericName=Whonix Important Blog
 Comment=Important Blog in Tor Browser

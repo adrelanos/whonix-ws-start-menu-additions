@@ -3,7 +3,7 @@
 
 [Desktop Entry]
 Type=Application
-Exec=torbrowser --contribute
+Exec=x-www-browser https://www.whonix.org/wiki/Contribute
 Name=Contribute
 GenericName=Whonix Contribute Page
 Comment=Contribute to Whonix
